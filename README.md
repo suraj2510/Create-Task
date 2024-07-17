@@ -1,0 +1,1 @@
+In my project using Node.js, Express.js, Tailwind CSS, and JavaScript, I created a task management application with a landing page. On this landing page, you can enter a task name and task details. Once submitted, the task is displayed below. If you click the "Read More" button, it will show the full details of the task name and task details.
